@@ -34,7 +34,7 @@ These are specific stakeholder requests beyond building the core model. Each sho
 
 ### Task 1: Prediction Reliability Evidence (Cecil, VP Customer Relations)
 
-**Assigned to**: _____________
+**Assigned to**: Tanner (Team Member)
 
 > "The biggest thing I want to see is quantifiable evidence that the predictions we come up with are reliable."
 
@@ -115,7 +115,7 @@ These are specific stakeholder requests beyond building the core model. Each sho
 
 ### Task 6: Insurance & Ethics Question (William, VP Finance)
 
-**Assigned to**: _____________
+**Assigned to**: Tanner (Team Member)
 
 > "Is there a way we can easily identify properties in low income areas and have the model lower those estimates to protect our insurance customers' interests?"
 
@@ -160,3 +160,4 @@ These are specific stakeholder requests beyond building the core model. Each sho
 | 7 | ML problem type explanation | Devon | Dawson | 1. Executive Summary |
 
 **Unassigned tasks**: 1, 3, 4, 6 (need Peter and Tanner to claim)
+
